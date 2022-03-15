@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/jleegunn/single-price-grid)
-- [Live Site URL](https://jleegunn.github.io/single-price-grid/)
+- [Live Site URL](https://jleecounsellor.github.io/single-price-grid/)
 
 ## My process
 
@@ -67,4 +67,4 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [Jamie Counsellor](TBD)
+- Website - [Jamie Counsellor](https://counsellorj.herokuapp.com/)
